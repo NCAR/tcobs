@@ -1,12 +1,57 @@
 menu:
-  - title: Layouts
-    url: /koru-jekyll-template/pages/layouts.html
-    submenu:
-      - title: Submenu Item
-        url: /koru-jekyll-template/pages/submenu.html
-  - title: Updating the Main Menu
-    url: /koru-jekyll-template/pages/main-menu.html
-  - title: Local Development
-    url: /koru-jekyll-template/pages/local-development.html
-  - title: Support
-    url: /koru-jekyll-template/pages/support.html
+  - title: About the Project
+    url: /tcobs/pages/about/index.html
+    submenu: 
+      - title: The Need
+        url: /tcobs/pages/about/need.html
+      - title: Our Science
+        url: /tcobs/pages/about/science.html
+      - title: Our Team
+        url: /tcobs/pages/about/team.html
+      - title: Project Schedule
+        url: /tcobs/pages/about/schedule.html
+      - title: Project Updates
+        url: /tcobs/pages/about/updates.html
+  - title: Real-time Data Streams
+    url: /tcobs/pages/data/index.html
+    submenu: 
+      - title: FLIGHT+RT
+        url: /tcobs/pages/data/flight.html  
+      - title: VDM+RT
+        url: /tcobs/pages/data/vdm.html  
+  - title: Analysis Techniques
+    url: /tcobs/pages/techniques/index.html
+    submenu: 
+      - title: The Tropical Cyclone Observations-Based Structure (TC-OBS)
+        url: /tcobs/pages/models/grip.html  
+  - title: Project Meetings
+    url: /tcobs/pages/meetings/index.html
+    submenu: 
+      - title: Project Meetings Notes
+        url: /tcobs/pages/meetings/index.html
+  - title: Evaluation
+    url: /tcobs/pages/evaluation/index.html
+    submenu: 
+      - title: TC-OBS Evaluation
+        url: /tcobs/pages/evaluation/tcobs.html
+  - title: Related Resources
+    url: /tcobs/pages/related/index.html
+    submenu: 
+      - title: Tropical Cyclone Guidance Project
+        url: https://hurricanes.ral.ucar.edu 
+      - title: Tropical Cyclone Data Project
+        url: https://verif.rap.ucar.edu/tcdata/
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
