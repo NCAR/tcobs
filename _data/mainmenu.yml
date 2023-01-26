@@ -24,11 +24,11 @@ menu:
     submenu: 
       - title: The Tropical Cyclone Observations-Based Structure (TC-OBS)
         url: /tcobs/pages/models/grip.html  
-  - title: Project Meetings
-    url: /tcobs/pages/meetings/index.html
+  - title: Project Materials
+    url: /tcobs/pages/materials/index.html
     submenu: 
-      - title: Project Meetings Notes
-        url: /tcobs/pages/meetings/index.html
+      - title: Project Meeting Notes
+        url: /tcobs/pages/materials/meetings/index.html
   - title: Evaluation
     url: /tcobs/pages/evaluation/index.html
     submenu: 
