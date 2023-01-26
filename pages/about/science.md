@@ -5,39 +5,42 @@ title: Our Science
 
 ## Our Science
 
-### Vision ###
-
-
 ### Introduction ###
-
 
 ### About the aircraft reconnaissance ###
 
-
-
 ### Putting it all together ###
 
-#### TC-OBS ####
 
-### Journal articles related to this project ###
+### Journal articles, datasets, and conference papers relevant to this project ###
 
-* VDM+ Dataset
-   * Lin, J., K. Emanuel, and J. L. Vigh, 2020: Forecasts of Hurricanes Using Large-Ensemble Outputs. Weather and Forecasting, 35 (5), 1713-1731, [https://doi.org/10.1175/WAF-D-19-0255.1](https://doi.org/10.1175/WAF-D-19-0255.1).
-   * Emanuel, K. A fast intensity simulator for tropical cyclone risk analysis. Nat Hazards 88, 779–796 (2017). [https://doi.org/10.1007/s11069-017-2890-7](https://doi.org/10.1007/s11069-017-2890-7)
+#### VDM+ Dataset
+##### Dataset citation
+   * Vigh, J. L., 2015. VDM+: The Enhanced Vortex Data Message Dataset (Version 1.100). Tropical Cyclone Data 
+         Project, National Center for Atmospheric Research, Research Applications Laboratory, Boulder, Colorado. 
+         \[Available online at: [https://doi.org/10.5065/D61Z42GH](https://doi.org/10.5065/D61Z42GH).\] Accessed* dd mmm yyyy.
+##### Documentation
+   * Vigh, J., 2015: VDM+: The Enhanced Vortex Message Dataset: Structure, intensity, and environmental parameters from Atlantic tropical cyclones. NCAR Technical Note NCAR/TN-517+STR, 72 pp. [https://doi.org/10.5065/D6PR7T26](https://doi.org/10.5065/D6PR7T26)
+##### Peer-reviewed journal articles
+   * Vigh, J. L., J. A. Knaff, and W. H. Schubert, 2012: A climatology of hurricane eye formation. Mon. Wea. Rev., 140, 1405-1426. [https://doi.org/10.1175/MWR-D-11-00108.1](https://doi.org/10.1175/MWR-D-11-00108.1) * [pdf file of article](https://staff.ral.ucar.edu/jvigh/papers/vigh_knaff_schubert2012.pdf)
+     * [pdf of supplement](https://staff.ral.ucar.edu/jvigh/papers/vigh_knaff_schubert2012_supplement.pdf)
 
-### Conference and workshop abstracts about this project ###
+#### FLIGHT+ Dataset
+##### Dataset citation
+   * Vigh, J. L., N. M. Dorst, C. L. Williams, D. P. Stern, E. W. Uhlhorn, B. W. Klotz, J. Martinez, H. E. Willoughby, F. D. Marks, Jr., D. R. Chavas, 2020: FLIGHT+: The Extended Flight Level Dataset for Tropical Cyclones (Version 1.3). Tropical Cyclone Data Project, National Center for Atmospheric 
+        Research, Research Applications Laboratory, Boulder, Colorado. 
+        \[Available online at: [https://doi.org/10.5065/D6WS8R93](https://doi.org/10.5065/D6WS8R93).] Accessed* dd mmm yyyy.
 
-* Vigh, J. L., D. J. Smith, D. T. Hahn, J. Lin, A. Bol, D. O. Prevatt, D. B. Roueche, J. M. Collins, B. R. Ellingwood, G. Nain, J. E. Rovins, K. Emanuel, T. Ross-Lazarov, P. Mozumder, S. F. Pilkington, S. J. Weaver, G. Wong-Parodi, L. Myers, A. A. Merdjanoff, P. A. Kucera, C. Wang, T. Kloetzke, S. Joslyn, E. A. Holland, B. Brown, Y. P. Sheng, F. Tormos-Aponte, C. M. Appendini Albrechtsen, R. G. Goldhammer, H. Greatrex, M. Moulton, J. M. Done, E. A. Hendricks, C. M. Rozoff, J. J. Alland, M. Ge, C. Arthur, 2021: Updates on the Hurricane Risk Calculator: App capabilities, risk messaging, and pilot testing. Extended Abstract, 34th Conference on Hurricanes and Tropical Meteorology, Session 9B Interdisciplinary research to improve the hurricane forecasting-warning-response system: Past, current, and future foci, virtual conference, Amer. Meteor. Soc., Paper 9B.8. 
-  * [Extended Abstract, pdf](https://staff.ral.ucar.edu/jvigh/documents/20210616_vighEA_34hurr_extended_abstract_hurricane_risk_calculator_FINAL2.pdf)
-  * [Recorded homework presentation given 12 May 2021](https://staff.ral.ucar.edu/jvigh/documents/20210503_vighEA_34hurr_hurricane_risk_calculator_homework_recording.mp4)
-  * [Presentation slides, pdf](https://staff.ral.ucar.edu/jvigh/documents/20210503_vighEA_34hurr_hurricane_risk_calculator_presentation.pdf)
+#### TC-OBS Database
+##### Dataset citation
+   * Vigh, J. L., E. Gilleland, C. L. Williams, D. R. Chavas, N. M. Dorst, 2016: TC-OBS: The Tropical Cyclone Observations-Based Structure Database (version 0.42, an alpha-level release). Tropical Cyclone Data Project, National Center for Atmospheric Research, Research Applications Laboratory, Boulder, Colorado. 
+         \[Available online at: [https://doi.org/10.5065/D6BC3X95](https://doi.org/10.5065/D6BC3X95).\] 
+         Accessed* dd mmm yyyy.
+##### Conference papers
+   * Vigh, J. L., E. Gilleland, C. L. Williams, D. R. Chavas, N. M. Dorst, J. Done, G. Holland, and B. G. Brown: 2016: A new historical database of tropical cyclone position, intensity, and size parameters optimized for wind risk modeling. Extended Abstract, 32nd Conf. on Hurricanes and Tropical Meteorology, San Juan, Puerto Rico, Amer. Meteor. Soc., Paper 12C.2. [https://doi.org/10.13140/RG.2.1.3720.5361](https://doi.org/10.13140/RG.2.1.3720.5361).
+    * [Extended Abstract, pdf](https://staff.ral.ucar.edu/jvigh/documents/20160519_vigh_32hurr_extended_abstract.pdf) 
+    * [Recorded presentation given 20 April 2016](https://ams.confex.com/ams/32Hurr/recordingredirect.cgi/id/34035)
+    * [Presentation slides, pdf](https://staff.ral.ucar.edu/jvigh/documents/20160420_vigh_32hurr_presentation.pdf)
 
-* Vigh, J.L., D.J. Smith, B.R. Ellingwood, J. Lin, D.O. Prevatt, D. Roueche, B.G. Brown, D.T. Hahn, J.M. Collins, J.M. Done, G. Wong-Parodi, P.A. Kucera, C. Wang, J.J. Alland, T. Kloetzke, C.M. Rozoff, E.A. Hendricks, A.A. Merdjanoff, C. Arthur, M. Ge, Y. Peter Sheng, K. Emanuel, S.J. Weaver, J. Rovins, P. Mozumder, S. Joslyn, A. Bol, and T. Ross-Lazarov, 2020: The Hurricane Risk Calculator: Working toward Enhancing Our Nation's Readiness, Responsiveness, and Resilience to Hurricanes through Probabilistic Risk Frameworks for Evacuation Decision Support. Extended Abstract, Eighth Symposium on Building a Weather-Ready Nation: Enhancing Our Nation's Readiness, Responsiveness, and Resilience to High Impact Weather Events, Session 5 Hurricane Studies and Other Tropical Programmatic Achievements, Boston, MA, Amer. Meteor. Soc., Paper 5.5. 
-  * [Extended Abstract, pdf](https://ral.ucar.edu/staff/jvigh/documents/vighEA2020_extended_abstract.pdf)
-  * [Recorded presentation given 15 January 2020](https://ams.confex.com/ams/2020Annual/recordingredirect.cgi/oid/Recording516716/paper370408_1.mp4) 
-  * [Presentation slides, pdf](https://ral.ucar.edu/staff/jvigh/documents/20200115_vigh_AMS100_hurricane_risk_calculator_presentation.pdf)
-
-* Vigh, J. L., C. Arthur, J. Done, M. Ge, C. Wang, T. Kloetzke, C. M. Rozoff, B. Brown, B. Ellingwood: 2018: The Hurricane Risk Calculator: Translating Potential Wind Impacts for Coastal and Inland Residents. Extended Abstract (pdf file), 33rd Conf. on Hurricanes and Tropical Meteorology, Poster Session 21: Hazard Communication, Ponte Vedra Beach, FL, Amer. Meteor. Soc., Poster 203, [https://doi.org/10.13140/RG.2.2.33416.72965](https://doi.org/10.13140/RG.2.2.33416.72965). 
-  * [pdf of poster presented 19 April 2018](https://staff.ral.ucar.edu/jvigh/documents/20180506_vighEA_33hurr_poster_hurricane_risk_calculator_36x56_FINAL3.pdf).
 
 [Next: Our Team](team.html)
