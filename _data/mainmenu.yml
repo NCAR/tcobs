@@ -17,10 +17,16 @@ menu:
   - title: Data
     url: /tcobs/pages/data/index.html
     submenu: 
-      - title: FLIGHT+RT
-        url: /tcobs/pages/data/flight.html  
-      - title: VDM+RT
-        url: /tcobs/pages/data/vdm.html  
+      - title: VDM+ Dataset
+        url: /tcobs/pages/data/vdm.html
+      - title: VDM+RT Data Stream
+        url: /tcobs/pages/data/vdm+rt.html
+      - title: FLIGHT+ Dataset
+        url: /tcobs/pages/data/flight.html
+      - title: FLIGHT+RT Data Stream
+        url: /tcobs/pages/data/flight+rt.html
+      - title: TC-OBS Database
+        url: /tcobs/pages/data/tc-obs.html
   - title: Techniques
     url: /tcobs/pages/techniques/index.html
     submenu: 
@@ -32,6 +38,8 @@ menu:
         url: /tcobs/pages/techniques/l-roses.html
       - title: (SAMURAI)
         url: /tcobs/pages/techniques/samurai.html
+  - title: Products
+    url: /tcobs/pages/products/index.html
   - title: Project Materials
     url: /tcobs/pages/materials/index.html
     submenu: 

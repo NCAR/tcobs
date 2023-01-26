@@ -9,7 +9,7 @@ title: About the Project
 
 ### [Our Team](team.html)
 
-### [Our Partners](partners.html)
+### [Funding](funding.html)
 
 ### [Project Schedule](schedule.html)
 
