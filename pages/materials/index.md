@@ -4,13 +4,10 @@ title: Project Materials
 ---
 This project
 
-### Meeting Minutes
-
-#### Project Meeting #1
-
-#### Project Meeting #2
-
+### Project Meetings
+[Minutes, recordings, and transcripts of our project meetings](meetings.html)
 
 ### Conference Papers
+
 
 ### Publications
