@@ -3,6 +3,7 @@ layout: default
 title: Project Meetings
 ---
 This page provides links to the minutes, recordings, and transcripts of project meetings.
+
 | Meeting Description           | Date              | Meeting Minutes                                                                          | Recordings                                                                           | Transcripts                                                                                                        |
 |-------------------------------|-------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Project Meeting #1 (Kick-off) | 30 September 2022 | [Link](https://docs.google.com/document/d/1E1G-jLqwn3SbwcwbVDA5d4lvzZQIIh1eBiyAGD3n6Iw/) | N/A                                                                                  | N/A                                                                                                                |
