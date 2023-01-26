@@ -40,6 +40,9 @@ menu:
         url: /tcobs/pages/techniques/samurai.html
   - title: Products
     url: /tcobs/pages/products/index.html
+    submenu:
+      - title: Text Products
+        url: /tcobs/pages/products/text.html
   - title: Project Materials
     url: /tcobs/pages/materials/index.html
     submenu: 
@@ -54,7 +57,7 @@ menu:
     submenu: 
       - title: TC-OBS Evaluation
         url: /tcobs/pages/evaluation/tcobs.html
-  - title: Related Resources
+  - title: Resources
     url: /tcobs/pages/related/index.html
     submenu: 
       - title: Tropical Cyclone Guidance Project
