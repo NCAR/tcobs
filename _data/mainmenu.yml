@@ -14,23 +14,33 @@ menu:
         url: /tcobs/pages/about/schedule.html
       - title: Project Updates
         url: /tcobs/pages/about/updates.html
-  - title: Real-time Data Streams
+  - title: Data
     url: /tcobs/pages/data/index.html
     submenu: 
       - title: FLIGHT+RT
         url: /tcobs/pages/data/flight.html  
       - title: VDM+RT
         url: /tcobs/pages/data/vdm.html  
-  - title: Analysis Techniques
+  - title: Techniques
     url: /tcobs/pages/techniques/index.html
     submenu: 
+      - title: Center-finding
+        url: /tcobs/pages/techniques/center_finding.html
       - title: The Tropical Cyclone Observations-Based Structure (TC-OBS)
-        url: /tcobs/pages/models/grip.html  
+        url: /tcobs/pages/techniques/tc-obs.html
+      - title: (L-ROSES)
+        url: /tcobs/pages/techniques/l-roses.html
+      - title: (SAMURAI)
+        url: /tcobs/pages/techniques/samurai.html
   - title: Project Materials
     url: /tcobs/pages/materials/index.html
     submenu: 
       - title: Project Meeting Notes
-        url: /tcobs/pages/materials/meetings/index.html
+        url: /tcobs/pages/materials/meetings.html
+      - title: Conference Papers
+        url: /tcobs/pages/materials/conferences.html
+      - title: Peer-reviewed Publications
+        url: /tcobs/pages/materials/publications.html
   - title: Evaluation
     url: /tcobs/pages/evaluation/index.html
     submenu: 
