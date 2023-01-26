@@ -8,6 +8,8 @@ menu:
         url: /tcobs/pages/about/science.html
       - title: Our Team
         url: /tcobs/pages/about/team.html
+      - title: Funding
+        url: /tcobs/pages/about/funding.html
       - title: Project Schedule
         url: /tcobs/pages/about/schedule.html
       - title: Project Updates
