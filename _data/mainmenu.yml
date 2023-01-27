@@ -31,32 +31,46 @@ menu:
     url: /tcobs/pages/techniques/index.html
     submenu: 
       - title: Center-finding
-        url: /tcobs/pages/techniques/center_finding.html
-      - title: The Tropical Cyclone Observations-Based Structure (TC-OBS)
-        url: /tcobs/pages/techniques/tc-obs.html
+        url: /tcobs/pages/techniques/centers.html
+      - title: Criteria-informed optimal weighting
+        url: /tcobs/pages/techniques/optimal.html
+      - title: Variational methods
+        url: /tcobs/pages/techniques/varational.html
       - title: (L-ROSES)
-        url: /tcobs/pages/techniques/l-roses.html
+        url: /tcobs/pages/techniques/lroses.html
       - title: (SAMURAI)
         url: /tcobs/pages/techniques/samurai.html
+      - title: Unified Parameterization
+        url: /tcobs/pages/techniques/unified.html
   - title: Products
     url: /tcobs/pages/products/index.html
     submenu:
       - title: Text Products
         url: /tcobs/pages/products/text.html
+      - title: Time Series Products
+        url: /tcobs/pages/products/time.html
+      - title: 2-d Gridded Products
+        url: /tcobs/pages/products/2d_gridded.html
+      - title: 3-d Gridded Products
+        url: /tcobs/pages/products/3d_gridded.html
   - title: Project Materials
     url: /tcobs/pages/materials/index.html
     submenu: 
+      - title: Transition Plan
+        url: /tcobs/pages/materials/transition.html
+      - title: Testing Plan
+        url: /tcobs/pages/materials/testing.html
       - title: Project Meeting Notes
         url: /tcobs/pages/materials/meetings.html
       - title: Conference Papers
         url: /tcobs/pages/materials/conferences.html
       - title: Peer-reviewed Publications
         url: /tcobs/pages/materials/publications.html
-  - title: Evaluation
-    url: /tcobs/pages/evaluation/index.html
-    submenu: 
+  - title: Results
+    url: /tcobs/pages/results/index.html
+    submenu:
       - title: TC-OBS Evaluation
-        url: /tcobs/pages/evaluation/tcobs.html
+        url: /tcobs/pages/results/tcobs.html
   - title: Resources
     url: /tcobs/pages/related/index.html
     submenu: 
