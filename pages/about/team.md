@@ -40,6 +40,10 @@ The Tropical Cyclone Analysis Project team is comprised of researchers from the 
 
 #### Alex DesRosiers
 
+<img src="../../images/people/DesRosiers_Headshot.jpg" alt="Head shot of Alex DesRosiers with foothills backdrop" style="display: block; margin: auto; max-height: 300px;">
+
+Alex DesRosiers is a Ph.D. candidate at Colorado State University. Born and raised in Florida, Alex gained a childhood interest in the tropical cyclones which often threatened the state. Alex obtained a Bachelor's Degree in Environmental Engineering at the University of Florida and a Master's Degree from Colorado State University in Atmospheric Science. His current research aims to identify internal mechanisms driving rapid intensification in tropical cyclones observed with NOAA Hurricane Hunter Aircraft. His research interests and projects also include using machine learning techniques to quality control airborne radar data as well as working with instrumentation aboard research aircraft. The end goal of Alex's work thus far is to provide a better understanding of how rapid intensity changes occur in order to improve future forecasting efforts.
+
 
 ### NOAA Points of Contact 
 
